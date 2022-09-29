@@ -1,5 +1,5 @@
 from turtle import Screen, Turtle
-pantalla=Screen()
+print("Hola que tal")
 pantalla.setup(425, 225)
 pantalla.screensize(400, 200)
 tort=Turtle()
