@@ -1,5 +1,6 @@
 from turtle import Screen, Turtle
-print("Hola que tal")
+print('Hola mundo')
+pantalla=Screen()
 pantalla.setup(425, 225)
 pantalla.screensize(400, 200)
 tort=Turtle()
@@ -36,3 +37,4 @@ else:
         tort.pendown()
         tort.pencolor('green')
         tort.dot(5)
+
